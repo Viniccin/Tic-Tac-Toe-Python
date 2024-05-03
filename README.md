@@ -1,0 +1,1 @@
+Tic-tac-toe game with layout made as one of the first projects in Python using the tkinter library, through video classes I reached this result, I know it is something very common, but for a first experience I did this
